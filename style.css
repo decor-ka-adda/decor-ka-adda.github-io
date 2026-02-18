@@ -249,7 +249,7 @@ body{
 .category-grid{
   display:grid;
   grid-template-columns:repeat(6,1fr);
-  gap:20px;
+  gap:0px;
 }
 
 .category-card{
@@ -763,5 +763,6 @@ body{
 .wa-btn {
   background: #25D366;
 }
+
 
 
