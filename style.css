@@ -249,7 +249,7 @@ body{
 .category-grid{
   display:grid;
   grid-template-columns:repeat(6,1fr);
-  gap:0px;
+  gap:5px;
 }
 
 .category-card{
@@ -278,8 +278,7 @@ body{
   .category-grid{
     grid-template-columns:repeat(3,1fr);
   }
-
-
+  
 @media(max-width:480px){
     .category-grid{
         grid-template-columns: 1fr;
@@ -770,6 +769,7 @@ body{
 .wa-btn {
   background: #25D366;
 }
+
 
 
 
