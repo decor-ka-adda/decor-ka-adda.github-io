@@ -1,3 +1,8 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
 .navbar{
   background:#fff;
   border-bottom:1px solid #eee;
@@ -758,4 +763,5 @@
 .wa-btn {
   background: #25D366;
 }
+
 
